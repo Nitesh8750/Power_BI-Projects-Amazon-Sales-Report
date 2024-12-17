@@ -103,9 +103,9 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 Contact
 For any questions, feedback, or collaborations, reach out:
-
-Name: Nitesh Kumar
-Email: nk7003361@gmail.com
+<br>
+Name: Nitesh Kumar<br>
+Email: nk7003361@gmail.com<br>
 
 Thank you for exploring this report! 📈<br>
 Feel free to contribute or share your suggestions for improvement. 🚀

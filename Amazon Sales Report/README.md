@@ -111,7 +111,7 @@ Name: Nitesh Kumar<br>
 Email: nk7003361@gmail.com<br>
 
 
-Thank you for exploring this project! 🚀
+Thank you for exploring this project! 🚀<br>
 Feel free to contribute or suggest improvements.
 
 

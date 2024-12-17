@@ -107,8 +107,10 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## Contact
 For any questions, suggestions, or feedback, feel free to reach out:
 
-Name: Nitesh Kumar
-Email: nk7003361@gmail.com
+Name: Nitesh Kumar<br>
+Email: nk7003361@gmail.com<br>
+
+
 Thank you for exploring this project! 🚀
 Feel free to contribute or suggest improvements.
 
